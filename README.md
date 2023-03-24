@@ -7,7 +7,7 @@
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=stormynight9&theme=onedark&row=2&column=3" alt="stormynight9" /></a> </p>
 
 
-<p align="left"> <a href="https://twitter.com/stormy_night9" target="blank"><img src="https://img.shields.io/twitter/follow/stormy_night9?logo=twitter&style=for-the-badge" alt="stormy_night9" /></a> </p>
+<p align="left"> <a href="https://twitter.com/NaderFerjani" target="blank"><img src="https://img.shields.io/twitter/follow/stormy_night9?logo=twitter&style=for-the-badge" alt="stormy_night9" /></a> </p>
 
 - 📫 How to reach me **ferjani.nader@hotmail.fr**
 
@@ -31,5 +31,3 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=stormynight9&theme=react&border=61dafb&hide_border=true" alt="stormynight9" /></p>
 
-
-<img src="https://activity-graph.herokuapp.com/graph?username=stormynight9&theme=react-dark&bg_color=20232a&hide_border=true" width="100%"/>
